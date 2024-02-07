@@ -1,6 +1,6 @@
 ---
 title: "Stem Completion"
-author: "Arpita Shah and Tian Zheng"
+author: "Tien Nguyen"
 output:
   html_document:
     df_print: paged

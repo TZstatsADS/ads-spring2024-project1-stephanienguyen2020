@@ -1,6 +1,6 @@
 ---
 title: "Happy Moments"
-author: "Arpita Shah and Tian Zheng"
+author: "Tien Nguyen"
 output: html_notebook
 runtime: shiny
 ---
