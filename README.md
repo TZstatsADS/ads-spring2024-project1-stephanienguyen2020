@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Spring 2024
-## Project 1: What made you happy today?
+## Project 1: Childfree Life - What Brings Happiness to Married Couples Without Children in America?
 
 ![image](figs/title.jpeg)
 
