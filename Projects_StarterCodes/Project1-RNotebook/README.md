@@ -9,10 +9,26 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2024
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by Tien Nguyen
++ Project title: Lorem ipsum dolor sit amet
++ This project is conducted by Tien Nguyen (tn2510)
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In contemporary America, the choice to lead a childfree life is increasingly prevalent. This project delves into the intricacies of happiness among married couples who have consciously opted out of parenthood. Through comprehensive research and interviews, several key inquiries were addressed to illuminate the facets of their contentment and fulfillment.
+
+Key Questions Explored:
+
+1. Do they ever want children? Do they regret not having a child? Why do they not want children?
+
+Understanding the motivations behind choosing a childfree lifestyle is fundamental. By delving into their desires, regrets, and reasons for opting out of parenthood, we unravel the intricate tapestry of their decision-making process.
+
+2. What personal achievements or career milestones are most commonly associated with happiness among married women without children?
+
+Exploring the professional and personal accomplishments that contribute to their sense of fulfillment provides insights into alternative sources of joy and satisfaction beyond traditional family dynamics.
+
+3. How do leisure activities and hobbies contribute to their sense of joy and fulfillment?
+
+Investigating the role of leisure pursuits and hobbies sheds light on the diverse avenues through which individuals cultivate happiness and enrich their lives outside the realm of parenting.
+
+Through this exploration, we gain valuable insights into what makes childfree married couples happy in America. By answering these questions, we learn more about the different paths to happiness in our society and challenge traditional norms.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
