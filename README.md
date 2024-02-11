@@ -16,19 +16,11 @@ Term: Spring 2024
 
 Key Questions Explored:
 
-1. Do they ever want children? Do they regret not having a child? Why do they not want children?
+1. Do childless married couples ever desire to have children? Do they regret not having a child?
 
-Understanding the motivations behind choosing a childfree lifestyle is fundamental. By delving into their desires, regrets, and reasons for opting out of parenthood, we unravel the intricate tapestry of their decision-making process.
+2. What made married people without children happy?
 
-2. What personal achievements or career milestones are most commonly associated with happiness among married women without children?
-
-Exploring the professional and personal accomplishments that contribute to their sense of fulfillment provides insights into alternative sources of joy and satisfaction beyond traditional family dynamics.
-
-3. How do leisure activities and hobbies contribute to their sense of joy and fulfillment?
-
-Investigating the role of leisure pursuits and hobbies sheds light on the diverse avenues through which individuals cultivate happiness and enrich their lives outside the realm of parenting.
-
-Through this exploration, we gain valuable insights into what makes childfree married couples happy in America. By answering these questions, we learn more about the different paths to happiness in our society and challenge traditional norms.
+3. Within a family without children, how can husbands make their wives happy?
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
